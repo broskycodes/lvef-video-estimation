@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Large data and model weights — not stored in the repo
+data/echonet/
+*.pt
+*.pth
+*.h5
+*.ckpt
