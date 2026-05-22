@@ -1,0 +1,12 @@
+Evaluation Metrics for Run: LVEF Fusion(Z)-L1
+========================================
+
+Validation Set Metrics:
+  - RMSE: 8.4295
+  - MAE: 6.1874
+  - Sklearn R^2: 0.5307
+
+Test Set Metrics:
+  - RMSE: 9.3374
+  - MAE: 6.8049
+  - Sklearn R^2: 0.4167
